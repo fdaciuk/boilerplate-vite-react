@@ -14,10 +14,15 @@
     "resolveJsonModule": true,
     "isolatedModules": false,
     "noEmit": true,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./src/@types",
+      // "./node_modules/vite-plugin-svgr/client"
+    ],
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
     }
   },
   "include": ["./src"]
