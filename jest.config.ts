@@ -3,7 +3,7 @@
  * https://jestjs.io/docs/configuration
  */
 
-const assetsKey = '\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga|css)$'
+const assetsKey = '\\.(jpg|jpeg|png|gif|eot|otf|webp|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga|css)$'
 
 const config = {
   // All imported modules in your tests should be mocked automatically
@@ -85,6 +85,7 @@ const config = {
   // A map from regular expressions to module names or to arrays of module names that allow to stub out resources with a single module
   moduleNameMapper: {
     '@/(.*)': '<rootDir>/src/$1',
+    '\\.svg$': '<rootDir>/src/config/tests/mocks/svg.ts',
     [assetsKey]: 'ts-jest',
   },
 
@@ -178,6 +179,7 @@ const config = {
   transform: {
     '^.+\\.tsx?$': 'ts-jest',
     [assetsKey]: 'ts-jest',
+    '\\.svg$': 'ts-jest',
   },
 
   // An array of regexp pattern strings that are matched against all source file paths, matched files will skip transformation
