@@ -16,12 +16,12 @@
     "noEmit": true,
     "typeRoots": [
       "./node_modules/@types",
-      "./src/@types",
+      "./src/@types"
     ],
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"],
+      "@/*": ["./src/*"]
     }
   },
   "include": ["./src"]
