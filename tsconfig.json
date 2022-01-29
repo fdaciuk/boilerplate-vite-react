@@ -17,7 +17,7 @@
     "typeRoots": [
       "./node_modules/@types",
       "./src/@types",
-      // "./node_modules/vite-plugin-svgr/client"
+      "./node_modules/vite-plugin-svgr/client"
     ],
     "jsx": "react-jsx",
     "baseUrl": ".",
