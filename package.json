@@ -43,5 +43,14 @@
     "vite-plugin-linter": "0.2.4",
     "vite-plugin-svgr": "1.0.1",
     "vite-tsconfig-paths": "3.3.17"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "16.2.1",
+    "cz-emoji-conventional": "1.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-emoji-conventional"
+    }
   }
 }
