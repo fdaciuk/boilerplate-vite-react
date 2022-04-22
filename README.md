@@ -22,8 +22,8 @@ This boilerplate is ready to be used by devs who want to start a new project usi
   - You can import any other media (images, videos, etc) that is located inside `src` directory;
   - You can use absolute imports, using `@` as `src` directory;
 - Eslint:
-  - Standard with some modifications;
-  - React Hooks;
+  - [Standard](https://standardjs.com/) with some modifications;
+  - React Hooks and other React configurations with [eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) (same used in Create React App);
 - Automatic lint and type-checking with Husky before every commit.
 
 ## Usage
