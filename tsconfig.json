@@ -15,15 +15,13 @@
     "resolveJsonModule": true,
     "isolatedModules": false,
     "noEmit": true,
-    "typeRoots": [
-      "./node_modules/@types",
-      "./src/@types"
-    ],
+    "typeRoots": ["./node_modules/@types", "./src/@types"],
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
   },
-  "include": ["./src"]
+  "include": ["./src"],
+  "exclude": ["node_modules", "build", "dist", ".docker"]
 }

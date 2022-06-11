@@ -32,6 +32,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "juniormartinxo",
+      "name": "Junior Martins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4163340?v=4",
+      "profile": "https://github.com/juniormartinxo",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
