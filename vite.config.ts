@@ -5,7 +5,7 @@ import { EsLinter, linterPlugin } from 'vite-plugin-linter'
 import svgrPlugin from 'vite-plugin-svgr'
 
 // https://vitejs.dev/config/
-export default defineConfig(configEnv => ({
+export default defineConfig((configEnv) => ({
   plugins: [
     react(),
     tsConfigPaths(),
@@ -15,4 +15,10 @@ export default defineConfig(configEnv => ({
     }),
     svgrPlugin(),
   ],
+  server: {
+    port: 3000,
+  },
+  preview: {
+    port: 8080,
+  },
 }))
