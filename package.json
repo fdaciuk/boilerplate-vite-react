@@ -45,5 +45,8 @@
     "vite-plugin-linter": "1.2.0",
     "vite-plugin-svgr": "2.2.1",
     "vite-tsconfig-paths": "3.5.1"
+  },
+  "devDependencies": {
+    "jest-environment-jsdom": "^29.5.0"
   }
 }
