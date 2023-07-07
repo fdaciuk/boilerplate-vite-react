@@ -32,6 +32,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "vinibispo",
+      "name": "Vinícius Bispo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48097622?v=4",
+      "profile": "http://vinibispo.com.br",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -39,5 +48,7 @@
   "projectOwner": "fdaciuk",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
