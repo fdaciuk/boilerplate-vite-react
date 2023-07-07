@@ -10,7 +10,7 @@
 </p>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > Boilerplate to create React.js apps with Vite
@@ -96,11 +96,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/fdaciuk"><img src="https://avatars.githubusercontent.com/u/487669?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando Daciuk</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=fdaciuk" title="Code">💻</a> <a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=fdaciuk" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/gabepinheiro"><img src="https://avatars.githubusercontent.com/u/45916330?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Pinheiro</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=gabepinheiro" title="Code">💻</a></td>
-    <td align="center"><a href="http://newcapital.in@gmail.com"><img src="https://avatars.githubusercontent.com/u/81476236?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NewCapital.in</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=SallesCosta" title="Code">💻</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fdaciuk"><img src="https://avatars.githubusercontent.com/u/487669?v=4?s=100" width="100px;" alt="Fernando Daciuk"/><br /><sub><b>Fernando Daciuk</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=fdaciuk" title="Code">💻</a> <a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=fdaciuk" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gabepinheiro"><img src="https://avatars.githubusercontent.com/u/45916330?v=4?s=100" width="100px;" alt="Gabriel Pinheiro"/><br /><sub><b>Gabriel Pinheiro</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=gabepinheiro" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://newcapital.in@gmail.com"><img src="https://avatars.githubusercontent.com/u/81476236?v=4?s=100" width="100px;" alt="NewCapital.in"/><br /><sub><b>NewCapital.in</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=SallesCosta" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vinibispo.com.br"><img src="https://avatars.githubusercontent.com/u/48097622?v=4?s=100" width="100px;" alt="Vinícius Bispo"/><br /><sub><b>Vinícius Bispo</b></sub></a><br /><a href="https://github.com/fdaciuk/boilerplate-vite-react/commits?author=vinibispo" title="Code">💻</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
